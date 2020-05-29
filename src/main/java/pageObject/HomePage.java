@@ -13,10 +13,6 @@ public class HomePage extends PageObject {
     private static final String POPUP_CLOSE_BUTTON = "css:.modal-dialog.advertPopup button";
     private static final String FOOTBALL_TAB = "css:#topMenu .mmHasChild.root.multicolumn.MenuGroupD  > a" ;
 
-
-
-
-
     /*
     ACTIONS
  */

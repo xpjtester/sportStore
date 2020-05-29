@@ -13,7 +13,7 @@ import pageObject.StarWarFootballPage;
 
 @RunWith(SerenityRunner.class)
 
-public class orderProductTests {
+public class addingToCart {
     @Managed
     WebDriver driver;
     @Managed
